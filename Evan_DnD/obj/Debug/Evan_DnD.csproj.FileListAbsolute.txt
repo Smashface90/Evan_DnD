@@ -1,0 +1,16 @@
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.exe.config
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.exe
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.pdb
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.AssemblyReference.cache
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.CoreCompileInputs.cache
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.exe
+C:\Users\Smashface\OneDrive - TAFE\Cert IV - Programming\Andrew\Projects\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.pdb
+E:\Unity\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.exe.config
+E:\Unity\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.exe
+E:\Unity\Evan_DnD\Evan_DnD\bin\Debug\Evan_DnD.pdb
+E:\Unity\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.AssemblyReference.cache
+E:\Unity\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.SuggestedBindingRedirects.cache
+E:\Unity\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.csproj.CoreCompileInputs.cache
+E:\Unity\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.exe
+E:\Unity\Evan_DnD\Evan_DnD\obj\Debug\Evan_DnD.pdb
